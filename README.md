@@ -5,7 +5,7 @@
 - Сбор, первичная обработка и подготовка к загрузке в БД PostgreSQL данных при помощи Python.
 - Создание таблиц в PostgreSQL для подготовленных данных.
 - Загрузка данных в таблицы.
-- Созданием отчета в PowerBI. Ссылка на отчет: https://app.powerbi.com/view?r=eyJrIjoiZjI1NzFiMDAtMTRjNy00ODliLWJhZDMtZTZmY2U0ZTA2OGUxIiwidCI6IjFkOTBlZjk5LTE0ZTMtNDQxNC04MTQwLTk1N2IwMDBiOTBjNiJ9
+- Создание отчета в PowerBI. Ссылка на отчет: https://app.powerbi.com/view?r=eyJrIjoiZjI1NzFiMDAtMTRjNy00ODliLWJhZDMtZTZmY2U0ZTA2OGUxIiwidCI6IjFkOTBlZjk5LTE0ZTMtNDQxNC04MTQwLTk1N2IwMDBiOTBjNiJ9
 
 В данном репозитории находятся файлы:
 hh_professions.ipynb
