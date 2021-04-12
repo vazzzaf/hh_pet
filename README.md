@@ -8,6 +8,7 @@
 - Создание отчета в PowerBI. Ссылка на отчет: https://app.powerbi.com/view?r=eyJrIjoiZjI1NzFiMDAtMTRjNy00ODliLWJhZDMtZTZmY2U0ZTA2OGUxIiwidCI6IjFkOTBlZjk5LTE0ZTMtNDQxNC04MTQwLTk1N2IwMDBiOTBjNiJ9
 
 В данном репозитории находятся файлы:
+
 hh_professions.ipynb
   - Создание списка профессий и категорий по которым проводились исследования. Также производилась подготовка поисковых запросов к API на hh.ru.
 
